@@ -1,4 +1,7 @@
-# api documentation for  [cory (v2.0.0)](https://github.com/leo/cory#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cory.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cory) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cory.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cory)
+# npmdoc-cory
+
+#### basic api documentation for  [cory (v2.0.0)](https://github.com/leo/cory#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cory.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cory) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cory.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cory)
+
 #### Minimal generator for static sites
 
 [![NPM](https://nodei.co/npm/cory.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cory)
